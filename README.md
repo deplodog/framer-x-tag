@@ -25,5 +25,5 @@ Simple and fully customizable tag (chips) component.
 
 ***
 Fell free to contact me if you have any questions, feature idea or component request.  
-Mail: [deplodog@gmail.com](mailto:deplodog@gmail.com) ,
+Mail: [deplodog@gmail.com](mailto:deplodog@gmail.com) ・
 Twitter: [@deplodog](https://twitter.com/deplodog) 
