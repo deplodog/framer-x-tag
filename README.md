@@ -1,5 +1,6 @@
 # Overview
 Simple and fully customizable tag (chips) component.
+Framer Store: [Tag Component](https://store.framer.com/package/deplodog/tag)	・
 
 # Features
 1. **Tags** — Sets array of the tags.
@@ -23,7 +24,12 @@ Simple and fully customizable tag (chips) component.
 * **1.0.0** — Release.
 
 
+# Support
+To improve my components and make even more I have to pay for FramerX subscription. If you want to support my work consider making a donation.  
+[Make a dontation](https://paypal.me/deplodog)
+
+
 ***
 Fell free to contact me if you have any questions, feature idea or component request.  
-Mail: [deplodog@gmail.com](mailto:deplodog@gmail.com) ・
-Twitter: [@deplodog](https://twitter.com/deplodog) 
+Twitter: [@deplodog](https://twitter.com/deplodog)	・
+Mail: [deplodog@gmail.com](mailto:deplodog@gmail.com)
