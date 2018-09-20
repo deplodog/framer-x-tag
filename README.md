@@ -1,6 +1,6 @@
 # Overview
 Simple and fully customizable tag (chips) component.   
-Framer Store: [Tag Component](https://store.framer.com/package/deplodog/tag)
+On the Framer Store: [Tag Component](https://store.framer.com/package/deplodog/tag)
 
 # Features
 1. **Tags** — Sets array of the tags.
